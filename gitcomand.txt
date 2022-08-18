@@ -12,5 +12,5 @@ git clone https://github.com/DevDataOrg/projectlesson1.git namepapki  //клон
 
 git pull  //копирует все файлы с гитхаб
 
-
+wq! 
 
