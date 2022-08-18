@@ -1,0 +1,7 @@
+git init 
+git config --local user.name "DevDataOrg"
+git config --local user.email pmbiclub@gmail.com
+git status
+git add -A
+git commit -a -m"first message"
+git remote add origin https://github.com/DevDataOrg/projectlesson1.git
