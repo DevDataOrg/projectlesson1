@@ -7,3 +7,10 @@ git commit -a -m"first message"
 git remote add origin https://github.com/DevDataOrg/projectlesson1.git
 git branch -M main
 git push -u origin main
+
+git clone https://github.com/DevDataOrg/projectlesson1.git namepapki  //клонирвание с гит хаб в новую папку
+
+git pull  //копирует все файлы с гитхаб
+
+
+
